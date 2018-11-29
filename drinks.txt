@@ -1,6 +1,9 @@
+callphone
+comouter
+printer
 cole
-comouteraaaaa
-printeraaaa
+comouter
+printer
 cellphone
 computer
 printer
