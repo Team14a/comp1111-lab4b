@@ -2,3 +2,7 @@ cell phone
 computer
 printer
 strawberry
+water
+kitcup
+bean
+icecream
