@@ -4,6 +4,15 @@ wine
 redtea
 whitetea
 greentea
+callphone
+comouter
+printer
+cole
+comouter
+printer
+cellphone
+computer
+printer
 water
 apple juice
 orange juice
