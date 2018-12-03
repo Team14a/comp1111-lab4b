@@ -4,3 +4,7 @@ printer
 cherry
 pineapple
 apple
+strawberry
+cherry
+pineapple
+
