@@ -7,3 +7,6 @@ appleaaaaaa
 kitcup
 bean
 icecream
+cherry
+pineapple
+apple
