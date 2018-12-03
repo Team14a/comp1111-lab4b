@@ -1,6 +1,10 @@
 cellphone
 computer
 printer
+cherry
+pineapple
+apple
 strawberry
 cherry
 pineapple
+
